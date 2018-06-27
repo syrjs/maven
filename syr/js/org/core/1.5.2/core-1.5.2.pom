@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>syr.js.org</groupId>
-  <artifactId>syrnative</artifactId>
+  <artifactId>core</artifactId>
   <version>1.5.2</version>
   <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
